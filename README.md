@@ -1,2 +1,2 @@
 # hello-world
-coantain=s starter code for the project
+coantain=s starter code for the project.
